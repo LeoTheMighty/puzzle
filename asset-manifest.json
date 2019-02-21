@@ -1,14 +1,14 @@
 {
-  "main.css": "/puzzle/static/css/main.fd4bde79.chunk.css",
-  "main.js": "/puzzle/static/js/main.c94f4b28.chunk.js",
-  "main.js.map": "/puzzle/static/js/main.c94f4b28.chunk.js.map",
+  "main.css": "/puzzle/static/css/main.ab2430fb.chunk.css",
+  "main.js": "/puzzle/static/js/main.92ebdefd.chunk.js",
+  "main.js.map": "/puzzle/static/js/main.92ebdefd.chunk.js.map",
   "runtime~main.js": "/puzzle/static/js/runtime~main.550f34a0.js",
   "runtime~main.js.map": "/puzzle/static/js/runtime~main.550f34a0.js.map",
   "static/js/2.ba1ca5ba.chunk.js": "/puzzle/static/js/2.ba1ca5ba.chunk.js",
   "static/js/2.ba1ca5ba.chunk.js.map": "/puzzle/static/js/2.ba1ca5ba.chunk.js.map",
   "index.html": "/puzzle/index.html",
-  "precache-manifest.29669b40cc11df68ac5d0b1b7793db75.js": "/puzzle/precache-manifest.29669b40cc11df68ac5d0b1b7793db75.js",
+  "precache-manifest.6333862b03813bd1d852296db6ef1d30.js": "/puzzle/precache-manifest.6333862b03813bd1d852296db6ef1d30.js",
   "service-worker.js": "/puzzle/service-worker.js",
-  "static/css/main.fd4bde79.chunk.css.map": "/puzzle/static/css/main.fd4bde79.chunk.css.map",
+  "static/css/main.ab2430fb.chunk.css.map": "/puzzle/static/css/main.ab2430fb.chunk.css.map",
   "static/media/logo.svg": "/puzzle/static/media/logo.5d5d9eef.svg"
 }
