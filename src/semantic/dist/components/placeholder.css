@@ -19,7 +19,7 @@
           animation: placeholderShimmer 2s linear;
   -webkit-animation-iteration-count: infinite;
           animation-iteration-count: infinite;
-  background-color: #FFFFFF;
+  background-color: #ffffff;
   background-image: -webkit-gradient(linear, left top, right top, from(rgba(0, 0, 0, 0.08)), color-stop(15%, rgba(0, 0, 0, 0.15)), color-stop(30%, rgba(0, 0, 0, 0.08)));
   background-image: -webkit-linear-gradient(left, rgba(0, 0, 0, 0.08) 0%, rgba(0, 0, 0, 0.15) 15%, rgba(0, 0, 0, 0.08) 30%);
   background-image: linear-gradient(to right, rgba(0, 0, 0, 0.08) 0%, rgba(0, 0, 0, 0.15) 15%, rgba(0, 0, 0, 0.08) 30%);
@@ -66,7 +66,7 @@
 .ui.placeholder .image.header:after,
 .ui.placeholder .line,
 .ui.placeholder .line:after {
-  background-color: #FFFFFF;
+  background-color: #ffffff;
 }
 
 /* Image */
@@ -91,7 +91,7 @@
 /* Lines */
 .ui.placeholder .line {
   position: relative;
-  height: 0.85714286em;
+  height: 0.8em;
 }
 .ui.placeholder .line:before,
 .ui.placeholder .line:after {
@@ -109,14 +109,14 @@
 
 /* Any Lines */
 .ui.placeholder .line {
-  margin-bottom: 0.5em;
+  margin-bottom: 0.46666667em;
 }
 .ui.placeholder .line:before,
 .ui.placeholder .line:after {
-  height: 0.5em;
+  height: 0.46666667em;
 }
 .ui.placeholder .line:not(:first-child) {
-  margin-top: 0.5em;
+  margin-top: 0.46666667em;
 }
 
 /* Header Image + 2 Lines */
@@ -144,14 +144,14 @@
 
 /* Header Line 1 & 2*/
 .ui.placeholder .header .line {
-  margin-bottom: 0.64285714em;
+  margin-bottom: 0.6em;
 }
 .ui.placeholder .header .line:before,
 .ui.placeholder .header .line:after {
-  height: 0.64285714em;
+  height: 0.6em;
 }
 .ui.placeholder .header .line:not(:first-child) {
-  margin-top: 0.64285714em;
+  margin-top: 0.6em;
 }
 .ui.placeholder .header .line:after {
   width: 20%;
@@ -164,11 +164,11 @@
   margin-left: 3em;
 }
 .ui.placeholder .image.header .line:before {
-  width: 0.71428571rem;
+  width: 0.66666667rem;
 }
 .ui.placeholder .image.header:after {
   display: block;
-  height: 0.85714286em;
+  height: 0.8em;
   content: '';
   margin-left: 3em;
 }
@@ -182,7 +182,7 @@
 .ui.placeholder .image:not(:first-child):before,
 .ui.placeholder .paragraph:not(:first-child):before,
 .ui.placeholder .header:not(:first-child):before {
-  height: 1.42857143em;
+  height: 1.33333333em;
   content: '';
   display: block;
 }
@@ -198,7 +198,7 @@
 .ui.inverted.placeholder .image.header:after,
 .ui.inverted.placeholder .line,
 .ui.inverted.placeholder .line:after {
-  background-color: #1B1C1D;
+  background-color: #25252f;
 }
 
 

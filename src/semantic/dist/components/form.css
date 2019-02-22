@@ -54,9 +54,9 @@
 
 .ui.form .field > label {
   display: block;
-  margin: 0em 0em 0.28571429rem 0em;
-  color: rgba(0, 0, 0, 0.87);
-  font-size: 0.92857143em;
+  margin: 0em 0em 0.26666667rem 0em;
+  color: #25252f;
+  font-size: 0.93333333em;
   font-weight: bold;
   text-transform: none;
 }
@@ -99,18 +99,18 @@
 .ui.form input[type="text"],
 .ui.form input[type="file"],
 .ui.form input[type="url"] {
-  font-family: 'Lato', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+  font-family: 'Source Sans Pro', 'Helvetica Neue', Arial, Helvetica, sans-serif;
   margin: 0em;
   outline: none;
   -webkit-appearance: none;
   tap-highlight-color: rgba(255, 255, 255, 0);
   line-height: 1.21428571em;
-  padding: 0.67857143em 1em;
+  padding: 0.62619048em 0.93333333em;
   font-size: 1em;
-  background: #FFFFFF;
-  border: 1px solid rgba(34, 36, 38, 0.15);
-  color: rgba(0, 0, 0, 0.87);
-  border-radius: 0.28571429rem;
+  background: #ffffff;
+  border: 1px solid #3b3d4d;
+  color: #25252f;
+  border-radius: 0.26666667rem;
   -webkit-box-shadow: 0em 0em 0em 0em transparent inset;
           box-shadow: 0em 0em 0em 0em transparent inset;
   -webkit-transition: color 0.1s ease, border-color 0.1s ease;
@@ -122,12 +122,12 @@
   margin: 0em;
   -webkit-appearance: none;
   tap-highlight-color: rgba(255, 255, 255, 0);
-  padding: 0.78571429em 1em;
-  background: #FFFFFF;
-  border: 1px solid rgba(34, 36, 38, 0.15);
+  padding: 0.73333333em 0.93333333em;
+  background: #ffffff;
+  border: 1px solid #3b3d4d;
   outline: none;
-  color: rgba(0, 0, 0, 0.87);
-  border-radius: 0.28571429rem;
+  color: #25252f;
+  border-radius: 0.26666667rem;
   -webkit-box-shadow: 0em 0em 0em 0em transparent inset;
           box-shadow: 0em 0em 0em 0em transparent inset;
   -webkit-transition: color 0.1s ease, border-color 0.1s ease;
@@ -162,13 +162,13 @@
   display: block;
   height: auto;
   width: 100%;
-  background: #FFFFFF;
-  border: 1px solid rgba(34, 36, 38, 0.15);
-  border-radius: 0.28571429rem;
+  background: #ffffff;
+  border: 1px solid #3b3d4d;
+  border-radius: 0.26666667rem;
   -webkit-box-shadow: 0em 0em 0em 0em transparent inset;
           box-shadow: 0em 0em 0em 0em transparent inset;
-  padding: 0.62em 1em;
-  color: rgba(0, 0, 0, 0.87);
+  padding: 0.62em 0.93333333em;
+  color: #25252f;
   -webkit-transition: color 0.1s ease, border-color 0.1s ease;
   transition: color 0.1s ease, border-color 0.1s ease;
 }
@@ -259,7 +259,7 @@
 
 .ui.form .field .prompt.label {
   white-space: normal;
-  background: #FFFFFF !important;
+  background: #ffffff !important;
   border: 1px solid #E0B4B4 !important;
   color: #9F3A38 !important;
 }
@@ -314,22 +314,22 @@
 
 /* browsers require these rules separate */
 .ui.form ::-webkit-input-placeholder {
-  color: rgba(191, 191, 191, 0.87);
+  color: #000000;
 }
 .ui.form :-ms-input-placeholder {
-  color: rgba(191, 191, 191, 0.87) !important;
+  color: #000000 !important;
 }
 .ui.form ::-moz-placeholder {
-  color: rgba(191, 191, 191, 0.87);
+  color: #000000;
 }
 .ui.form :focus::-webkit-input-placeholder {
-  color: rgba(115, 115, 115, 0.87);
+  color: #9191a8;
 }
 .ui.form :focus:-ms-input-placeholder {
-  color: rgba(115, 115, 115, 0.87) !important;
+  color: #9191a8 !important;
 }
 .ui.form :focus::-moz-placeholder {
-  color: rgba(115, 115, 115, 0.87);
+  color: #9191a8;
 }
 
 /* Error Placeholder */
@@ -368,18 +368,18 @@
 .ui.form input[type="text"]:focus,
 .ui.form input[type="file"]:focus,
 .ui.form input[type="url"]:focus {
-  color: rgba(0, 0, 0, 0.95);
+  color: #25252f;
   border-color: #7F47AE;
-  border-radius: 0.28571429rem;
-  background: #FFFFFF;
+  border-radius: 0.26666667rem;
+  background: #ffffff;
   -webkit-box-shadow: 0px 0em 0em 0em rgba(34, 36, 38, 0.35) inset;
           box-shadow: 0px 0em 0em 0em rgba(34, 36, 38, 0.35) inset;
 }
 .ui.form textarea:focus {
-  color: rgba(0, 0, 0, 0.95);
+  color: #25252f;
   border-color: #7F47AE;
-  border-radius: 0.28571429rem;
-  background: #FFFFFF;
+  border-radius: 0.26666667rem;
+  background: #ffffff;
   -webkit-box-shadow: 0px 0em 0em 0em rgba(34, 36, 38, 0.35) inset;
           box-shadow: 0px 0em 0em 0em rgba(34, 36, 38, 0.35) inset;
   -webkit-appearance: none;
@@ -449,7 +449,7 @@
 .ui.form .fields.error .field .corner.label,
 .ui.form .field.error .corner.label {
   border-color: #9F3A38;
-  color: #FFFFFF;
+  color: #ffffff;
 }
 .ui.form .fields.error .field textarea,
 .ui.form .fields.error .field select,
@@ -733,9 +733,9 @@
 .ui.inverted.form input[type="text"],
 .ui.inverted.form input[type="file"],
 .ui.inverted.form input[type="url"] {
-  background: #FFFFFF;
+  background: #ffffff;
   border-color: rgba(255, 255, 255, 0.1);
-  color: rgba(0, 0, 0, 0.87);
+  color: #25252f;
   -webkit-box-shadow: none;
           box-shadow: none;
 }
@@ -754,9 +754,9 @@
   margin-bottom: 0em;
 }
 .ui.form .grouped.fields > label {
-  margin: 0em 0em 0.28571429rem 0em;
-  color: rgba(0, 0, 0, 0.87);
-  font-size: 0.92857143em;
+  margin: 0em 0em 0.26666667rem 0em;
+  color: #25252f;
+  font-size: 0.93333333em;
   font-weight: bold;
   text-transform: none;
 }
@@ -990,9 +990,9 @@
   margin-top: 0em;
   margin-bottom: 0em;
   vertical-align: baseline;
-  font-size: 0.92857143em;
+  font-size: 0.93333333em;
   font-weight: bold;
-  color: rgba(0, 0, 0, 0.87);
+  color: #25252f;
   text-transform: none;
 }
 
@@ -1017,7 +1017,7 @@
 /* Label */
 .ui.form .inline.fields .field > :first-child,
 .ui.form .inline.field > :first-child {
-  margin: 0em 0.85714286em 0em 0em;
+  margin: 0em 0.86666667em 0em 0em;
 }
 .ui.form .inline.fields .field > :only-child,
 .ui.form .inline.field > :only-child {
@@ -1043,28 +1043,28 @@
 ---------------------*/
 
 .ui.mini.form {
-  font-size: 0.78571429rem;
+  font-size: 0.8rem;
 }
 .ui.tiny.form {
-  font-size: 0.85714286rem;
+  font-size: 0.86666667rem;
 }
 .ui.small.form {
-  font-size: 0.92857143rem;
+  font-size: 0.93333333rem;
 }
 .ui.form {
   font-size: 1rem;
 }
 .ui.large.form {
-  font-size: 1.14285714rem;
+  font-size: 1.13333333rem;
 }
 .ui.big.form {
-  font-size: 1.28571429rem;
+  font-size: 1.26666667rem;
 }
 .ui.huge.form {
-  font-size: 1.42857143rem;
+  font-size: 1.4rem;
 }
 .ui.massive.form {
-  font-size: 1.71428571rem;
+  font-size: 1.73333333rem;
 }
 
 
