@@ -1,13 +1,13 @@
 {
   "main.css": "/puzzle/static/css/main.16f80c27.chunk.css",
-  "main.js": "/puzzle/static/js/main.a6bd962b.chunk.js",
-  "main.js.map": "/puzzle/static/js/main.a6bd962b.chunk.js.map",
+  "main.js": "/puzzle/static/js/main.568132c6.chunk.js",
+  "main.js.map": "/puzzle/static/js/main.568132c6.chunk.js.map",
   "runtime~main.js": "/puzzle/static/js/runtime~main.550f34a0.js",
   "runtime~main.js.map": "/puzzle/static/js/runtime~main.550f34a0.js.map",
   "static/js/2.bf8dcb23.chunk.js": "/puzzle/static/js/2.bf8dcb23.chunk.js",
   "static/js/2.bf8dcb23.chunk.js.map": "/puzzle/static/js/2.bf8dcb23.chunk.js.map",
   "index.html": "/puzzle/index.html",
-  "precache-manifest.54aa0017103cec8722b8829524805a0d.js": "/puzzle/precache-manifest.54aa0017103cec8722b8829524805a0d.js",
+  "precache-manifest.0660d599b750b08764d19a28f2be5b64.js": "/puzzle/precache-manifest.0660d599b750b08764d19a28f2be5b64.js",
   "service-worker.js": "/puzzle/service-worker.js",
   "static/css/main.16f80c27.chunk.css.map": "/puzzle/static/css/main.16f80c27.chunk.css.map",
   "static/media/semantic.min.css": "/puzzle/static/media/outline-icons.ef60a4f6.woff"

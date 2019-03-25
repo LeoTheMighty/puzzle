@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "a6bd962b117ab8c89486",
+    "revision": "568132c6866b0baced81",
     "url": "/puzzle/static/css/main.16f80c27.chunk.css"
   },
   {
-    "revision": "a6bd962b117ab8c89486",
-    "url": "/puzzle/static/js/main.a6bd962b.chunk.js"
+    "revision": "568132c6866b0baced81",
+    "url": "/puzzle/static/js/main.568132c6.chunk.js"
   },
   {
     "revision": "550f34a01c447a11a5e7",
@@ -16,20 +16,20 @@ self.__precacheManifest = [
     "url": "/puzzle/static/js/2.bf8dcb23.chunk.js"
   },
   {
-    "revision": "cd6c777f1945164224dee082abaea03a",
-    "url": "/puzzle/static/media/outline-icons.cd6c777f.woff2"
-  },
-  {
     "revision": "ef60a4f6c25ef7f39f2d25a748dbecfe",
     "url": "/puzzle/static/media/outline-icons.ef60a4f6.woff"
   },
   {
-    "revision": "701ae6abd4719e9c2ada3535a497b341",
-    "url": "/puzzle/static/media/outline-icons.701ae6ab.eot"
+    "revision": "cd6c777f1945164224dee082abaea03a",
+    "url": "/puzzle/static/media/outline-icons.cd6c777f.woff2"
   },
   {
     "revision": "ad97afd3337e8cda302d10ff5a4026b8",
     "url": "/puzzle/static/media/outline-icons.ad97afd3.ttf"
+  },
+  {
+    "revision": "701ae6abd4719e9c2ada3535a497b341",
+    "url": "/puzzle/static/media/outline-icons.701ae6ab.eot"
   },
   {
     "revision": "9c74e172f87984c48ddf5c8108cabe67",
@@ -80,7 +80,7 @@ self.__precacheManifest = [
     "url": "/puzzle/static/media/brand-icons.a1a749e8.svg"
   },
   {
-    "revision": "05f3cceb066a5af09a1a1f6cd1242b47",
+    "revision": "b5fe02ef0f85d6e60f02f267eed11df6",
     "url": "/puzzle/index.html"
   }
 ];
